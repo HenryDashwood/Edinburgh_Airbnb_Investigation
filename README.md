@@ -13,5 +13,4 @@ Tqdm
 
 # Data sources
 Both the datasets I used came from Inside Airbnb. You can find them at the following links:
-http://insideairbnb.com/get-the-data.html 
-http://insideairbnb.com/edinburgh/
+http://insideairbnb.com/get-the-data.html and http://insideairbnb.com/edinburgh/
