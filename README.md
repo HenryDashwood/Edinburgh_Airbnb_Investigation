@@ -1,6 +1,9 @@
-# Edinburgh_Airbnb_Investigation
-A look at Airbnb listings in Edinburgh. Part of my Udacity Data Scientist Nanodegree.
+# Project Motivation
+A look at Airbnb listings in Edinburgh. I want to know whether review scores can be used to predict predict the price of a listing. I would also like to know which areas are more or less expensive so that I can make more informed decisions next time I visit. Finally, I am interested in exploring the change in supply and whether it affects the average price in a neighbourhood. 
 
+This has been part of my Udacity Data Scientist Nanodegree.
+
+# Summary
 I ask three questions in this notebook:
 
 1) Can I predict the price of a listing from its review scores? I find that, using a simple linear regression model I cannot.
