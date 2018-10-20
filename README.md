@@ -12,6 +12,12 @@ I ask three questions in this notebook:
 
 3) Is there a relationship between how much supply a neighbourhood adds relative to its neighbours and the change in its relative price. I use data from 2014 and 2017 and find that, although supply has gone up accross the city and prices have generally come down, there was no significant correlation amongst neighbourhoods.
 
+# List of Files
+- investigation.ipynb - The notebook in which I carried out the investigation.
+- listings.csv - The dataset used to answer the first two questions in the investigation
+- edinburgh - This folder contains datasets for the period 2014 to 2017. I used _tomslee_airbnb_edinburgh_0032_2014-05-25.csv_ and _tomslee_airbnb_edinburgh_1472_2017-07-22.csv_ to answer the third question.
+- README.md - This README.
+
 # Installations
 Python 3
 Jupyter
